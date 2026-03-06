@@ -23,6 +23,7 @@ js/
 images/
 ## Screenshots
 Home page preview of the website interface.
+![Homepage](homepage.png)
 
 ## Purpose
 This project was built as a frontend practice project to demonstrate skills in building responsive e-commerce website layouts.
