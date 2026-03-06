@@ -18,7 +18,7 @@ This project showcases a stylish online shop interface with product browsing and
 
   ## Live Demo
 **Live Website:**  
-https://basmalawael043-dev.github.io/my-frontend-project
+https://basmalawael043-dev.github.io/my-frontend-project2
 
 ## Project Structure
 index.html
